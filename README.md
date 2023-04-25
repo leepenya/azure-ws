@@ -23,7 +23,7 @@ Summary: In this project, I inspected several network protocols (ICMP, SSH, DHCP
 </br>
  - Ubuntu Server 20.04 (VM2)
  
-  <h2>High-level Steps</h2>
+  <h2>High-Level Steps</h2>
   
 1. Set up a network with two virtual machines (VMs) in Microsoft Azure.
 2. Install Wireshark on one virtual machine (VM1).
