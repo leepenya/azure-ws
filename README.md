@@ -19,8 +19,8 @@ Summary: In this project, I inspected several network protocols (ICMP, SSH, DHCP
  - Windows command line & PowerShell
   
  <h2>Operating Systems Used</h2>
+ 
  - Windows 10 (VM1)
-</br>
  - Ubuntu Server 20.04 (VM2)
  
   <h2>High-Level Steps</h2>
